@@ -9,7 +9,7 @@
   "website": "https://axelar.network/",
   "bech32_prefix": "axelar",
   "daemon_name": "axelard",
-  "node_home": "$HOME/.axelar",
+  "node_home": "$HOME/.axhttps://drpc.org/chainlist/cosmos-hubelar",
   "key_algos": [
     "secp256k1"
   ],
@@ -325,6 +325,10 @@
       {
         "address": "https://axelar-rpc.publicnode.com:443",
         "provider": "Allnodes ⚡️ Nodes & Staking"
+      },
+      {
+        "address": "https://axelar.drpc.org",
+        "provider": "dRPC"
       }
     ],
     "rest": [
